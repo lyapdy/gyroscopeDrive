@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../main.qml</file>
+        <file alias="objects/TextControls.qml">../../objects/TextControls.qml</file>
+        <file alias="objects/PageObject.qml">../../objects/PageObject.qml</file>
+        <file alias="pages/MainPage.qml">../../pages/MainPage.qml</file>
+        <file alias="objects/DialogObject.qml">../../objects/DialogObject.qml</file>
+        <file alias="images/settings.png">../../images/settings.png</file>
+        <file alias="images/back.png">../../images/back.png</file>
+        <file alias="pages/ExtraPage.qml">../../pages/ExtraPage.qml</file>
+        <file alias="pages/SettingsPage.qml">../../pages/SettingsPage.qml</file>
+    </qresource>
+</RCC>

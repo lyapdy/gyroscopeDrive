@@ -1,0 +1,16 @@
+debug/communication.o
+debug/main.o
+debug/modbustcp.o
+debug/mbdevice.o
+debug/main_qml.o
+debug/pages_ExtraPage_qml.o
+debug/pages_MainPage_qml.o
+debug/pages_SettingsPage_qml.o
+debug/objects_DialogObject_qml.o
+debug/objects_PageObject_qml.o
+debug/objects_TextControls_qml.o
+debug/qmlcache_loader.o
+debug/qrc_qml_qmlcache.o
+debug/moc_communication.o
+debug/moc_modbustcp.o
+debug/moc_mbdevice.o

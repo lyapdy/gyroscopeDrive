@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>objects/TextControls.qml</file>
+        <file>objects/PageObject.qml</file>
+        <file>pages/MainPage.qml</file>
+        <file>objects/DialogObject.qml</file>
+        <file>images/settings.png</file>
+        <file>images/back.png</file>
+        <file>pages/ExtraPage.qml</file>
+        <file>pages/SettingsPage.qml</file>
+    </qresource>
+</RCC>

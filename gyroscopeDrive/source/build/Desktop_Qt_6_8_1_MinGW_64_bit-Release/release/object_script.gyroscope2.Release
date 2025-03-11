@@ -1,0 +1,16 @@
+release/communication.o
+release/main.o
+release/modbustcp.o
+release/mbdevice.o
+release/main_qml.o
+release/pages_ExtraPage_qml.o
+release/pages_MainPage_qml.o
+release/pages_SettingsPage_qml.o
+release/objects_DialogObject_qml.o
+release/objects_PageObject_qml.o
+release/objects_TextControls_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_communication.o
+release/moc_modbustcp.o
+release/moc_mbdevice.o
